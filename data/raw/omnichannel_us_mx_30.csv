@@ -1,0 +1,31 @@
+﻿panelist_id,country,state,region,dma,platform,os_version,device_manufacturer,device_model,age_group,gender,income_tier,incom_tier_mx,touchpoint_type,app_or_domain,poi_name,poi_category,ad_exposure_channel,advertiser_name,duration_sec,event_type,event_timestamp_utc
+2033037,US,CA,WEST,803,iOS,17.4,Apple,iPhone 15,25-34,F,"$75,000-$99,999",,App,Walmart App,,,In-App Audio,Walmart,245,Browse,2026-11-20 14:12:05
+4866019,US,TX,SOUTH,623,Android,14,samsung,SM-N970U,35-44,M,"$50,000-$74,999",,Web,target.com,,,Social Ad,Target,180,Browse,2026-11-20 15:03:22
+1032122,US,NY,NORTHEAST,501,iOS,17.2,Apple,iPhone 14,18-24,F,"$25,000-$49,999",,POI,,Walmart Supercenter #1422,Big Box Store,In-App Media,Huggies,1920,Visit,2026-11-20 16:45:10
+5204201,US,FL,SOUTH,528,Android,13,Google,Pixel 7,45-54,M,"$100,000+",,Web,amazon.com,,,,,410,Purchase,2026-11-20 17:10:00
+2556510,US,IL,MIDWEST,602,iOS,16.6,Apple,iPhone 13,25-34,F,"$75,000-$99,999",,POI,,Starbucks #881,QSR / Coffee,In-App Audio,Starbucks,640,Visit,2026-11-20 18:01:44
+5731244,US,WA,WEST,819,iOS,17.5,Apple,iPhone 15 Pro,35-44,F,"$100,000+",,Web,costco.com,,,Social Ad,Costco,315,Browse,2026-11-20 18:30:12
+5058913,US,OH,MIDWEST,542,Android,13,samsung,SM-A136U,55+,M,"$50,000-$74,999",,POI,,Walmart Supercenter #200,Big Box Store Grocery Store,,,2400,Visit,2026-11-20 19:15:33
+7402699,US,GA,SOUTH,524,Android,14,LGE,LM-Q730,18-24,M,"$25,000-$49,999",,App,YouTube Music,,,In-App Audio,PepsiCo,1320,Stream,2026-11-20 20:05:19
+6120984,US,AZ,WEST,753,iOS,17.1,Apple,iPhone 14,25-34,F,"$50,000-$74,999",,Web,walmart.com,,,In-App Media,Walmart,290,Purchase,2026-11-20 21:22:08
+3398120,US,NC,SOUTH,517,iOS,17.4,Apple,iPhone 13,45-54,F,"$75,000-$99,999",,POI,,Whole Foods #304,Supermarket,Social Ad,Amazon,1650,Visit,2026-11-21 00:10:50
+8841205,US,MI,MIDWEST,505,Android,13,samsung,SM-G965U,35-44,M,"$50,000-$74,999",,App,TikTok,,,Social Ad,Huggies,195,Ad_View,2026-11-21 01:40:11
+9102344,US,PA,NORTHEAST,504,iOS,17.3,Apple,iPhone 15,25-34,M,"$100,000+",,POI,,Best Buy #512,Electronics,Social Ad,Best Buy,1120,Visit,2026-11-21 02:18:27
+4451908,US,CO,WEST,751,Android,14,Google,Pixel 8,18-24,F,"$25,000-$49,999",,Web,sephora.com,,,Social Ad,Sephora,520,Purchase,2026-11-21 03:05:49
+6672310,US,VA,SOUTH,511,iOS,16.5,Apple,iPhone 12,55+,F,"$75,000-$99,999",,App,Kroger,,,,,340,Browse,2026-11-21 13:12:30
+7783412,US,MA,NORTHEAST,506,iOS,17.4,Apple,iPhone 15 Pro,35-44,M,"$100,000+",,POI,,Walmart Supercenter #21,Big Box Store,In-App Audio,Walmart,2780,Visit,2026-11-21 15:55:02
+9010001,MX,CDMX,CENTRO,MX-CMX,Android,14,samsung,SM-A546E,25-34,F,C+,"$36,200",App,Walmart México,,,Social Ad,Walmart México,310,Browse,2026-11-20 14:20:11
+9010002,MX,Nuevo León,NORTE,MX-MTY,iOS,17.4,Apple,iPhone 15,35-44,M,A/B,"$56,550",POI,,Walmart Express Valle,Supermarket,In-App Audio,Walmart Express,1850,Visit,2026-11-20 15:45:00
+9010003,MX,Jalisco,OCCIDENTE,MX-GDL,Android,13,Motorola,Moto G84,18-24,F,C,"$28,630",Web,mercadolibre.com.mx,,,Social Ad,Mercado Libre,460,Purchase,2026-11-20 16:12:38
+9010004,MX,Estado de México,CENTRO,MX-CMX,Android,12,Xiaomi,Redmi Note 12,45-54,M,D+,"$17,450",POI,,Bodega Aurrera Ecatepec,Discount Retail,,,2100,Visit,2026-11-20 17:30:15
+9010005,MX,Puebla,CENTRO,MX-PUE,iOS,17.2,Apple,iPhone 13,25-34,F,C+,"$36,200",Web,amazon.com.mx,,,In-App Media,Amazon México,275,Browse,2026-11-20 18:19:42
+9010006,MX,Querétaro,BAJIO,MX-QRO,iOS,17.4,Apple,iPhone 14 Pro,35-44,M,A/B,"$56,550",App,Sam's Club México,,,In-App Media,Sam's Club,390,Purchase,2026-11-20 19:05:29
+9010007,MX,Guanajuato,BAJIO,MX-BJX,Android,13,samsung,SM-A346M,25-34,M,C-,"$22,130",POI,,OXXO León Centro,Convenience,In-App Audio,Coca-Cola,240,Visit,2026-11-20 20:14:51
+9010008,MX,Yucatán,SURESTE,MX-MID,Android,13,samsung,SM-S911B,55+,F,C+,"$36,200",Web,walmart.com.mx,,,,,510,Browse,2026-11-20 21:00:08
+9010009,MX,Baja California,NORTE,MX-TIJ,iOS,16.7,Apple,iPhone 12,18-24,M,C,"$28,630",App,Spotify,,,In-App Audio,Bodega Aurrera,1450,Stream,2026-11-20 22:33:17
+9010010,MX,CDMX,CENTRO,MX-CMX,iOS,17.5,Apple,iPhone 15 Pro Max,35-44,F,A/B,"$56,550",POI,,Liverpool Polanco,Department Store,Social Ad,Liverpool,3200,Visit,2026-11-21 00:40:12
+9010011,MX,Nuevo León,NORTE,MX-MTY,Android,14,samsung,SM-A536E,45-54,M,C-,"$22,130",Web,soriana.com,,,Social Ad,Soriana,190,Browse,2026-11-21 01:15:44
+9010012,MX,Jalisco,OCCIDENTE,MX-GDL,iOS,17.3,Apple,iPhone 14,25-34,F,C+,"$36,200",App,Rappi,,,In-App Media,Walmart Express,280,Purchase,2026-11-21 02:50:03
+9010013,MX,Chihuahua,NORTE,MX-CUU,Android,12,Xiaomi,Poco X5,35-44,M,D,"$13,110",POI,,Walmart Fuentes Mares,Big Box Store,Social Ad,Walmart México,2350,Visit,2026-11-21 14:05:26
+9010014,MX,Veracruz,GOLFO,MX-VER,Android,11,Motorola,Moto E22,18-24,F,E,"$8,680",App,TikTok,,,Social Ad,Bodega Aurrera,1890,Ad_View,2026-11-21 15:22:19
+9010015,MX,CDMX,CENTRO,MX-CMX,iOS,17.4,Apple,iPhone 15,25-34,M,C+,"$36,200",POI,,Starbucks Reforma 222,QSR / Coffee,In-App Audio,Starbucks México,780,Visit,2026-11-21 16:48:35
