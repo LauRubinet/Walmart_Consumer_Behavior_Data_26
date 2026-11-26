@@ -10,9 +10,9 @@ Proyecto de portafolio de **Data Analytics** enfocado en el ecosistema retail de
 
 ## Alcance y Transparencia de Datos
 
-Dado que este es un proyecto de portafolio independiente **sin acceso a servidores internos, Google Search Console ni bases de datos privadas de Walmart**, la arquitectura opera de forma local/portable (CSV + SQLite en memoria/archivo) combinando:
-* **Datos estructurados de muestra / simulados:** dataset omnicanal de 30 registros (15 US / 15 MX) basado en esquemas de medición *first-party* (App, Web, POI y exposición publicitaria) y eventos simulados de embudo.
-* **Datos públicos y observaciones propias:** referencias de tendencias de búsqueda en México (Google Trends) y auditorías manuales de visibilidad en motores de IA (ChatGPT, Gemini, Perplexity).
+Dado que este es un proyecto de portafolio independiente **sin acceso a servidores internos, Google Search Console** tomo como base **M Four Omni Traffic Data Schema de Walmart** publicado en Datarade (https://datarade.ai/data-products/omnichannel-consumer-journeys-1st-party-3b-events-verifi-mfour), la arquitectura opera de forma local/portable con los primeros registros del Dataset (CSV + SQLite en memoria/archivo) combinando:
+* **Datos estructurados de muestra verificada para USA / y simulados para México:** dataset omnicanal de 30 registros (15 US / 15 MX) basado en esquemas de medición *first-party* (App, Web, POI y exposición publicitaria) y eventos simulados de embudo.
+* **Datos públicos y observaciones propias:** referencias de tendencias de búsqueda en México (Google Trends) y auditorías manuales de visibilidad en motores de IA (ChatGPT, Gemini, Perplexity y HubSpot).
 
 ---
 ## 🛠️ Stack tecnológico
