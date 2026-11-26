@@ -15,6 +15,17 @@ Dado que este es un proyecto de portafolio independiente **sin acceso a servidor
 * **Datos públicos y observaciones propias:** referencias de tendencias de búsqueda en México (Google Trends) y auditorías manuales de visibilidad en motores de IA (ChatGPT, Gemini, Perplexity).
 
 ---
+## 🛠️ Stack tecnológico
+
+| Tecnología | Uso |
+| :--- | :--- |
+| Git & GitHub | Control de versiones, estructura por etapas y publicación del portafolio |
+| Google Colab / Python (`pandas`, `numpy`) | Limpieza de datos, homologación de campos y análisis exploratorio (EDA) |
+| CSV (`data/raw`, `interim`, `processed`) | Almacenamiento portable por etapas sin servidor ni base de datos externa |
+| SQLite (`sqlite3`) / SQL | Modelado relacional ligero en memoria/archivo y consultas de embudo/AEO |
+| Google Trends & Motores de IA (AEO) | Tendencias de búsqueda en MX y auditoría de visibilidad frente a competidores |
+| HubSpot AI Search Grader (AEO Grader) | Evaluación de visibilidad, menciones y desempeño de marca en motores de búsqueda con IA (AEO) |
+---
 📁 Estructura del proyecto
 
 ```text
@@ -25,6 +36,7 @@ walmart-omnichannel-aeo-portfolio/
 ├── outputs/
 ├── sql/
 └── src/
+```
 ---
 
 ## Estado Actual del Proyecto y Estructura de Archivos
