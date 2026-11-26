@@ -37,6 +37,7 @@ walmart-omnichannel-aeo-portfolio/
 ├── sql/
 └── src/
 ```
+
 ---
 
 ## Estado Actual del Proyecto y Estructura de Archivos
